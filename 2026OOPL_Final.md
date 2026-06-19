@@ -75,7 +75,7 @@
 
 > 對應截圖見 `Resources/images/screenshot1.png` ~ `screenshot4.png`
 
-![遊戲畫面](Resources/images/screenshot1.png)
+![遊戲畫面](./screenshot1.png)
 
 ---
 
