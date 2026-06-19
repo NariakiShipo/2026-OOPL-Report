@@ -75,9 +75,6 @@
 - **多型**：玩家在不同狀態下動態替換 drawable，渲染端無感知地正確繪製
 
 關卡以 **TMX 地圖檔**驅動，所有數值參數外部化於 **JSON 設定檔**，改數值免重編譯。
-
-> 詳細 OOP 分析請見 [`oop_analysis.md`](oop_analysis.md)
-
 ---
 
 *Based on [PTSD framework](https://github.com/ntut-open-source-club/practical-tools-for-simple-design)*
